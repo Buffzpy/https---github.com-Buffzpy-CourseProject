@@ -1,0 +1,44 @@
+
+body {
+    background-color: #0A0F24;
+}
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 350%;
+}
+header {
+    font-size: 150%;
+    text-align: center;
+    color: aliceblue;
+    font-family:cursive;
+    background-color: blueviolet;
+}
+.headings {
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    text-align: center
+}
+.button1 button{
+    font-size: 23px;
+    background-color: #c91111;
+    border-radius: 10%;
+    border: none;
+    height: 50px;
+    width: 300px;
+    margin: auto; 
+    display: grid;
+    justify-content: center;
+           
+
+}
+.p1{
+    font-size: 25px;
+    color: aliceblue;
+    
+    text-align: center;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
